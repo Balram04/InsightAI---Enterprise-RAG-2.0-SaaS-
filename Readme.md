@@ -1,4 +1,4 @@
-# PDF ChatBot
+# Enterprise RAG 2.0 SaaS
 
 A smart, conversational PDF assistant built with Python and LangChain. This project lets you chat with the contents of a PDF document using Retrieval-Augmented Generation (RAG), making it possible to ask questions about a document and receive grounded, context-aware answers.
 
